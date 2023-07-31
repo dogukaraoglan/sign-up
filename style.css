@@ -9,7 +9,7 @@ body{
 .container{
     display: grid;
     grid-template-columns: 1fr 2fr;
-    background-color: ;
+    
     background: linear-gradient(to bottom, rgb(2, 47, 43), rgb(50, 115, 255));
     width: 800px;
     height: 400px;
